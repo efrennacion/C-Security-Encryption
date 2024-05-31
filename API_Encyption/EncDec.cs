@@ -13,7 +13,7 @@ namespace API_Encyption
     }
     public class EncDec
     {
-        private byte[] _key = Encoding.UTF8.GetBytes("sEq763CWuMxf5yRZSa7br1GneG6uqZjv");
+        private byte[] _key = Encoding.UTF8.GetBytes("4j6NFiXhDeLJC5SaGTLGD5K5OfB1jLx2");
         private byte[] _iv = Encoding.UTF8.GetBytes("76sQsZxgUZfNGMd4");
 
         public string EncryptString(string plainText, byte[] key, byte[] iv) 

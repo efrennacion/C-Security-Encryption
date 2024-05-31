@@ -5,7 +5,7 @@ namespace API_Encyption
     public partial class Form1 : Form
     {
         AuthEncDec auth;
-        private byte[] _key = Encoding.UTF8.GetBytes("sEq763CWuMxf5yRZSa7br1GneG6uqZjv");
+        private byte[] _key = Encoding.UTF8.GetBytes("4j6NFiXhDeLJC5SaGTLGD5K5OfB1jLx2");
         private byte[] _iv = Encoding.UTF8.GetBytes("76sQsZxgUZfNGMd4");
         public static bool enableEncryption;
 

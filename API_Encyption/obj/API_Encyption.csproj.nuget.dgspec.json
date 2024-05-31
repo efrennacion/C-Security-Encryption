@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Analyn\\source\\repos\\API_Encyption\\API_Encyption\\API_Encyption.csproj": {}
+    "C:\\Users\\Analyn\\Desktop\\DEVELOPMENT\\PRODUCTION\\API_Encyption\\API_Encyption\\API_Encyption.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Analyn\\source\\repos\\API_Encyption\\API_Encyption\\API_Encyption.csproj": {
+    "C:\\Users\\Analyn\\Desktop\\DEVELOPMENT\\PRODUCTION\\API_Encyption\\API_Encyption\\API_Encyption.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Analyn\\source\\repos\\API_Encyption\\API_Encyption\\API_Encyption.csproj",
+        "projectUniqueName": "C:\\Users\\Analyn\\Desktop\\DEVELOPMENT\\PRODUCTION\\API_Encyption\\API_Encyption\\API_Encyption.csproj",
         "projectName": "API_Encyption",
-        "projectPath": "C:\\Users\\Analyn\\source\\repos\\API_Encyption\\API_Encyption\\API_Encyption.csproj",
+        "projectPath": "C:\\Users\\Analyn\\Desktop\\DEVELOPMENT\\PRODUCTION\\API_Encyption\\API_Encyption\\API_Encyption.csproj",
         "packagesPath": "C:\\Users\\Analyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Analyn\\source\\repos\\API_Encyption\\API_Encyption\\obj\\",
+        "outputPath": "C:\\Users\\Analyn\\Desktop\\DEVELOPMENT\\PRODUCTION\\API_Encyption\\API_Encyption\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

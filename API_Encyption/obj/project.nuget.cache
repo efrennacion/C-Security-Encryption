@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ILcKqnwrkdPMawz8331w3pvhlqjhz+LPtR8DFUZbQxQDxpEObf2az6nyLqIrSMaY1KEtaWbu1dc6yjQbe030A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Analyn\\source\\repos\\API_Encyption\\API_Encyption\\API_Encyption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Analyn\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.1\\microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
+    "C:\\Users\\Analyn\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.1\\microsoft.identitymodel.jsonwebtokens.7.5.1.nupkg.sha512",
+    "C:\\Users\\Analyn\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.1\\microsoft.identitymodel.logging.7.5.1.nupkg.sha512",
+    "C:\\Users\\Analyn\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.1\\microsoft.identitymodel.tokens.7.5.1.nupkg.sha512",
+    "C:\\Users\\Analyn\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.1\\system.identitymodel.tokens.jwt.7.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
